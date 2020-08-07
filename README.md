@@ -1,5 +1,3 @@
-# Predicting-Insurance-Premiums
-
 # Predicting Insurance Premiums
 
 - Our simple dataset contains a few attributes for each person such as 
